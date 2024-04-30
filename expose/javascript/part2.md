@@ -10,5 +10,23 @@
 9. It would cause an error since let declars it inside the for loop not being able to be accessed.
 10. It would return 3 since hte length is const of an array sized 3.
 11. This function would return [] since it is declared a const it can't be changed.
-12. A. student.name B. student['Grad Year'] C. student[greeting] D.student['Favorite Teacher'].name E. student.courseLoad[0]
-13. 
+12. A. student.name 
+    B. student['Grad Year'] 
+    C. student[greeting] 
+    D.student['Favorite Teacher'].name 
+    E. student.courseLoad[0]
+13. A. '32' since '3' is a string representation it maps to exact string representation 
+    B. 1 Since you can't subtract literal string the arithmetic is run. 
+    C. 3 null is defaulted to 0 
+    D. '3null'it maps to exact string representation 
+    E. 4 true has the numeric value 1 
+    F. 0 false and null both have the value 0 
+    G.'3undefined' it maps to exact string representation
+    H. NaN undefined does not have a value so it can't subtract
+14. A. true 2 becomes a number and 2 is greater than 1
+    B. false 2 is lexicograpgically greater than 12
+    C. true 2 becomes a number 2 is equal to 2
+    D. false they are different types
+    E. false true as a number is 1 which is not equal to 2
+    F. true they are both booleans
+    
