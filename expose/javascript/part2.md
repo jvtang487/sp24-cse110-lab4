@@ -10,3 +10,5 @@
 9. It would cause an error since let declars it inside the for loop not being able to be accessed.
 10. It would return 3 since hte length is const of an array sized 3.
 11. This function would return [] since it is declared a const it can't be changed.
+12. A. student.name B. student['Grad Year'] C. student[greeting] D.student['Favorite Teacher'].name E. student.courseLoad[0]
+13. 
