@@ -1,15 +1,15 @@
 
-1. It will print 2. Since the for loop goes through incrememting i it outputs to the console the last vaule of i.
+1. It will print 3. Since the for loop goes through incrememting i until it is >= to the length it outputs to the console the last vaule of i which will be 3.
 2. This will print 150. Since the last value of i is 2, then prices[i] would be 300, and the discount is 0.5 so half of that is 150.
 3. This would print 150. Final price takes thte last discounted prices which is 150 and rounds it which is just 150.
 4. It would return [50, 100, 150]. Since the final price of each is pushed after the array discounted is populated with the discounted price.
 5. This would cause an error since let is declares the variables inside the function it is able to be accessed outside of it.
 6. This would cause an error since let is declares the variables inside the function it is able to be accessed outside of it.
-7. This would return 0. Since final price is originally declared to 0. The variables inside do not change it.
-8. This would return []. Since it is declared originally empty but pushing it inside the for loop does not change it.
+7. This would return 150. Since final price is originally declared it will be able to be used in the for loop.
+8. This would return [50, 100, 150]. Since it is declared originally it is able to be used in the for loop to be modified.
 9. It would cause an error since let declars it inside the for loop not being able to be accessed.
-10. It would return 3 since hte length is const of an array sized 3.
-11. This function would return [] since it is declared a const it can't be changed.
+10. It would return 3 since the length is const of an array sized 3.
+11. This function would return [50,100,150] since it is declared a const you still push items to it.
 12. A. student.name 
     B. student['Grad Year'] 
     C. student[greeting] 
@@ -30,3 +30,4 @@
     E. false true as a number is 1 which is not equal to 2
     F. true they are both booleans
 15. The == sign compares the two values if they are the same the === compares if they are both the same type
+16. The result will be an array of [2,4,6] or multiplied by 2. I got this as I walked through the function, it would use some function to update a new array, the function being called multiplied the num by 2 so the new array would be 2 times of each value.
