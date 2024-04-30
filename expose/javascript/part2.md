@@ -29,4 +29,4 @@
     D. false they are different types
     E. false true as a number is 1 which is not equal to 2
     F. true they are both booleans
-    
+15. The == sign compares the two values if they are the same the === compares if they are both the same type
