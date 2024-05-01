@@ -30,4 +30,5 @@
     E. false true as a number is 1 which is not equal to 2
     F. true they are both booleans
 15. The == sign compares the two values if they are the same the === compares if they are both the same type
-16. The result will be an array of [2,4,6] or multiplied by 2. I got this as I walked through the function, it would use some function to update a new array, the function being called multiplied the num by 2 so the new array would be 2 times of each value.
+17. The result will be an array of [2,4,6] or multiplied by 2. I got this as I walked through the function, it would use some function to update a new array, the function being called multiplied the num by 2 so the new array would be 2 times of each value.
+19. 1 4 3 2
